@@ -1,20 +1,20 @@
 {
-  "name": "ngx-dropdown",
+  "name": "ngx-dropdown-angular-4",
   "version": "0.0.22",
   "description": "Simple dropdown for your angular2 applications using bootstrap3.",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "private": true,
+  "private": false,
   "author": {
-    "name": "Umed Khudoiberdiev",
-    "email": "pleerock.me@gmail.com"
+    "name": "Julien Moreau",
+    "email": "juliendoudoumoreau@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pleerock/ngx-dropdown.git"
+    "url": "https://github.com/doudbanks/ngx-dropdown.git"
   },
   "bugs": {
-    "url": "https://github.com/pleerock/ngx-dropdown/issues"
+    "url": "https://github.com/doudbanks/ngx-dropdown/issues"
   },
   "tags": [
     "dropdown",
